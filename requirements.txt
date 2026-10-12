@@ -1,0 +1,4 @@
+aiogram>=3.13,<4
+asyncpg>=0.29
+python-dotenv>=1.0
+tzdata
